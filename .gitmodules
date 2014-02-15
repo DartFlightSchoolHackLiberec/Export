@@ -1,0 +1,15 @@
+[submodule "SpaceShipAI"]
+	path = SpaceShipAI
+	url = git@github.com:DartFlightSchoolHackLiberec/SpaceShipAI.git
+[submodule "TimeTracker"]
+	path = TimeTracker
+	url = git@github.com:DartFlightSchoolHackLiberec/TimeTracker.git
+[submodule "SocialWall"]
+	path = SocialWall
+	url = git@github.com:DartFlightSchoolHackLiberec/SocialWall.git
+[submodule "aJeTo"]
+	path = aJeTo
+	url = git@github.com:DartFlightSchoolHackLiberec/aJeTo.git
+[submodule "EleventhDayAdmin"]
+	path = EleventhDayAdmin
+	url = git@github.com:DartFlightSchoolHackLiberec/EleventhDayAdmin.git

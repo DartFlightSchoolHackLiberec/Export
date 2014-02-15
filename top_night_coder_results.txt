@@ -1,0 +1,8 @@
+SocialWall	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+SpaceShipAI	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	 | 0.0
+TimeTracker	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	 | 0.0
+SocialWall	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+SpaceShipAI	| 0.0
+TimeTracker	| 0.0
+SocialWall	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+Winner is SpaceShipAI with 0.0 points!
